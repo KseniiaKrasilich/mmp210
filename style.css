@@ -1,5 +1,5 @@
 body{
-  margin: 0 auto;
+
   font-family: 'Roboto', sans-serif;
 
 }
@@ -10,3 +10,22 @@ h1{
 #color{
   color: red;
 }
+#about{
+  float: right;
+}
+h1{
+  text-align: center;
+  margin-top: 20am;
+}
+
+/* .column {
+    float: left;
+    width: 50%;
+}
+
+/* Clear floats after the columns */
+/* .row:after {
+    content: "";
+    display: table;
+    clear: both;
+} */ */
