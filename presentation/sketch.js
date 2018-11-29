@@ -28,7 +28,7 @@ function draw() {
 				text("Life on the frying pan!", width/2, height/2);
     } else if (slide == 1) {
         textSize(30);
-        text("I will be using potentiometer to create interaction.", 460, 100);
+        text("I will be using a potentiometer to create interaction.", 460, 100);
         text("It will be functioning as a stove knob to lit and control the flame. ", 460, 150);
         image(potentiometer, width/2, height/2);
     } else if (slide == 2) {
@@ -37,7 +37,7 @@ function draw() {
         text("The Canva would change color with each turn", 460, 200);
         text("of the knob, painting it in red color,", 460, 250);
         text("and making Bacon and Egg dance on the pan.", 460, 300);
-    
+
     }
     else if (slide == 3) {
         text("Meet the main characters of this story", 460, 100);
